@@ -1,4 +1,4 @@
-# Analyze-data-with-sql
+# Analyze data with sql for different businesses
 
 Building funnels from a single table and multiple tables and comparing funnels for warby parker quiz -> home_try_on -> purchase.
 
